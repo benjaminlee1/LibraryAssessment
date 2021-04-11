@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>LibraryChallengeWeb2</RootNamespace>
+    <AssemblyName>LibraryChallengeWeb2</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LibraryChallengeCore\LibraryChallengeCore.csproj" />
+  </ItemGroup>
+
+</Project>
